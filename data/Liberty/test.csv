@@ -1,0 +1,6 @@
+Label,Content
+0,login success user1
+1,error failed login attempt
+0,file opened successfully
+1,disk failure detected
+0,connection established
